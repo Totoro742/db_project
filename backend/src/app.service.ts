@@ -26,5 +26,6 @@ export class AppService {
             values: [values]
         }
         console.log(values);
+        return
     }
 }
